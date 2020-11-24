@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overlord Cluster Snapshot"
+    id="9175fdbe-2782-4958-b648-50a206d9c133"
+    documentation="Updated by a management process, by default 30-60s&#xA;&#xA;Overlords that are not doing active ingestion supervision can become the leader very quickly because they have a good view of the health of the cluster, just like the leader"/>

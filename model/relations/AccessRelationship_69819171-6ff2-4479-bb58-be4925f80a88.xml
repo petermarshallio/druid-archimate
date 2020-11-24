@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ingest jobs"
+    id="69819171-6ff2-4479-bb58-be4925f80a88">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_1012c202-e16c-46cd-9bbe-1c616f61ae8c.xml#1012c202-e16c-46cd-9bbe-1c616f61ae8c"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_a1b78133-5bd0-4900-872e-0a3698a708be.xml#a1b78133-5bd0-4900-872e-0a3698a708be"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Broker Native API"
+    id="2238cf94-bfc8-4f42-95fa-4d6416ba64f3"
+    documentation="~/druid/v2&#xA;SQL or Druid Native"/>

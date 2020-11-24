@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="rule jobs"
+    id="9fd6a470-003e-4644-affb-5417448ec26f"
+    accessType="1">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_fbb254c1-d1d3-463b-b71b-f90fc97dcd79.xml#fbb254c1-d1d3-463b-b71b-f90fc97dcd79"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_b9babf5c-ce91-41cc-a3b3-8659e7f3366e.xml#b9babf5c-ce91-41cc-a3b3-8659e7f3366e"/>
+</archimate:AccessRelationship>

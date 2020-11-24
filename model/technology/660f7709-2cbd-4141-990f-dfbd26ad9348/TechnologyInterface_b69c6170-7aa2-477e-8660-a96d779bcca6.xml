@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Task Commands"
+    id="b69c6170-7aa2-477e-8660-a96d779bcca6"
+    documentation="Pause&#xA;Resume&#xA;Checkpoint"/>

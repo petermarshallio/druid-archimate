@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Constraints in Data"
+    id="2763f767-ed6c-4bbe-ad40-3b4e3879ec1a"
+    documentation="The breadth and depth of the knowledge available to someone to look at is narrowed and filtered to meet specific, often very rigorously defined, criteria.&#xA;&#xA;Data service functions may be designed around the belief that, if there's a lot of data (both broad and long), it must not be provided to end users directly as they will ask for all of it, the systems will not cope, and satisfaction levels will drop.&#xA;&#xA;At Game Analytics, they used this tactic to maintain performance and financial stability, but inevitably this just annoyed their customers."/>

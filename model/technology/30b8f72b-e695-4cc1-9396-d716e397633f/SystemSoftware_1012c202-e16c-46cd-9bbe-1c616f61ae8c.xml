@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overlord"
+    id="1012c202-e16c-46cd-9bbe-1c616f61ae8c"
+    documentation="THis process manages which Indexer / MM runs which tasks, and offers an API to those tasks for allocating segments, publishing segments to the Metadata Store, etc.&#xA;&#xA;For a streamable ingestion, a supervisor manages the tasks that are running, one per datasource.  Every so often, it synchronises a publish of the segments across all running tasks.  This happens by checkpointing all the partition tasks across all replicas, making sure all the tasks have reached the same position in the stream.  (This only takes a few seconds).&#xA;&#xA;The overlord knows how to run things by discovery in ZK&#xA;&#xA;Leadership-related code for the overlord is in TaskMaster&#xA;&#xA;ServerView and InventoryView monitor the announcements - along with DruidNodeDiscoveryProvider&#xA;&#xA;RemoteTaskRunner is the process that tells indexers to run tasks"/>

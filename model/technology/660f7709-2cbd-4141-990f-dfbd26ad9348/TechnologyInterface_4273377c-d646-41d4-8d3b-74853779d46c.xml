@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Broker SQL API"
+    id="4273377c-d646-41d4-8d3b-74853779d46c"
+    documentation="~/druid/v2/sql"/>

@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Server"
+    id="929f56c0-f846-41ec-8b23-b3dbcc9ee638"
+    documentation="It may make sense to scale MM/Indexer and Historical processes independently in a large environment"/>

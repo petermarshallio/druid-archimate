@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lack of skills"
+    id="714428bc-2f0d-457a-a172-441519cf2757"
+    documentation="Any organisation, newly formed or a bulwark, can suffer from a lack of skill in &quot;open source&quot; tooling, whether that's actually open source (like Apache Druid) or might be (like Java).&#xA;&#xA;Game Analytics, when they chose Apache Druid, had a lack of knowledge when implementing JVM systems and of data pipelines built with NoSQL."/>

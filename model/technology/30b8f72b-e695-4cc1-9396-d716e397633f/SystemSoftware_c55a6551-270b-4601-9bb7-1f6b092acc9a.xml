@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BLOB Store"
+    id="c55a6551-270b-4601-9bb7-1f6b092acc9a"
+    documentation="A storage system like S3, HDFS etc."/>

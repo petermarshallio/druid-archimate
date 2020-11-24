@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organise data for time-based statistics"
+    id="aa622e1a-4712-4f95-89a9-2978a43b38a8"
+    documentation="By organising data for time-based querying (as with time series databases) and optimizing the organized data for search and computation (columnar databases), much greater speed and storage efficiency can be achieved."/>

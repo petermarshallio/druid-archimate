@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Database Design [DBDS]"
+    id="f06b0e86-dc52-4374-b8fa-fafd852e2a8a"
+    documentation="The specification, design and maintenance of mechanisms for storage of and access to data in support of business information needs. Design of the physical data layer, addressing enterprise data resource needs and local stored data structures. Definition of physical or virtual data warehouse structures required to support business intelligence and data analytics services."/>

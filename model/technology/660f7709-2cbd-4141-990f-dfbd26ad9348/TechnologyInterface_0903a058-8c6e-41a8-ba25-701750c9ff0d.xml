@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Historical Query API"
+    id="0903a058-8c6e-41a8-ba25-701750c9ff0d"
+    documentation="Handles native Druid queries on historical data"/>

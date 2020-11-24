@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadata Database Cache"
+    id="4ec5b768-331b-4c13-9bf7-97514ee43222"
+    documentation="A SELECT * from the metadata store where is_used = TRUE"/>
