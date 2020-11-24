@@ -1,5 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Configuration management [CFMG]"
-    id="a656d2f9-94d1-42d5-bfa9-160c7975b0cd"
-    documentation="The planning, management, control and governance of organisational, project and service assets and artefacts. The identification, classification and specification of configuration items (CIs) and their inter-relationships. Identifying the configuration and version of source code, software, systems, documents and service dependent CIs at distinct points in time. Systematically controlling changes to the configuration and maintaining the integrity and traceability of the configuration throughout the project, system and/or service life cycle. Identifying and documenting the functional and physical characteristics of CIs, controlling changes to those characteristics, recording and reporting change processing and implementation status. Verifying and auditing CIs for data quality and compliance with specified internal and external requirements."/>

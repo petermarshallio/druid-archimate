@@ -1,5 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Release &amp; Deployment [RELM]"
-    id="7ec3e866-bc88-47d9-a104-ec62508aec7f"
-    documentation="The management of the processes, systems and functions to package, build, test and deploy changes and updates (which are bounded as “releases”) into a live environment, establishing or continuing the specified service, to enable controlled and effective handover to operational management and the user community. The application of automation to improve the efficiency and quality of releases."/>

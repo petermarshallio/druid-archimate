@@ -1,5 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Systems Design [DESN]"
-    id="83bf1e68-2424-419b-a96f-89c1b34c8304"
-    documentation="The design of systems to meet specified requirements, compatible with agreed systems architectures, adhering to corporate standards and within constraints of performance and feasibility. The identification of concepts and their translation into a design which forms the basis for systems construction and verification. The design or selection of components. The development of a complete set of detailed models, properties, and/or characteristics described in a form suitable for implementation. The adoption and adaptation of systems design lifecycle models based on the context of the work and selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches."/>

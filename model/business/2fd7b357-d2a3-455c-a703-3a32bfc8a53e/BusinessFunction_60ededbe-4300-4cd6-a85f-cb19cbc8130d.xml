@@ -1,5 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Application Support [ASUP]"
-    id="60ededbe-4300-4cd6-a85f-cb19cbc8130d"
-    documentation="The provision of application maintenance and support services, either directly to users of the systems or to service delivery functions. Support typically includes investigation and resolution of issues and may also include performance monitoring. Issues may be resolved by providing advice or training to users, by devising corrections (permanent or temporary) for faults, making general or site-specific modifications, updating documentation, manipulating data, or defining enhancements Support often involves close collaboration with the system's developers and/or with colleagues specialising in different areas, such as Database administration or Network support."/>

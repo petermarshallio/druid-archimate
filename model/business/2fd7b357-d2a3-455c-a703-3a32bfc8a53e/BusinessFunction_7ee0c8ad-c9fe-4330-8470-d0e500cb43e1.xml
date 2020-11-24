@@ -1,5 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Solution Architecture [ARCH]"
-    id="7ee0c8ad-c9fe-4330-8470-d0e500cb43e1"
-    documentation="The design and communication of high-level structures to enable and guide the design and development of integrated solutions that meet current and future business needs. In addition to technology components, solution architecture encompasses changes to service, process, organisation, and operating models. The provision of comprehensive guidance on the development of, and modifications to, solution components to ensure that they take account of relevant architectures, strategies, policies, standards and practices (including security) and that existing and planned solution components remain compatible."/>
