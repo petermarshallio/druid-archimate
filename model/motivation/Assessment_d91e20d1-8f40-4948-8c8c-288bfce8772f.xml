@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Storage of data in unsuitable ways"
     id="d91e20d1-8f40-4948-8c8c-288bfce8772f"
-    documentation="When data is not organised for statistical processing, it can take up much more space than is needed, and be much slower than might be needed.&#xA;&#xA;This is even the case, as Gaming Analytics discovered, for databases that are meant to hold and provide statistics for time-series data, like Riak Timeseries (built in Erlang) - they're very fast for looking at events over a time frame, but found grouping and filtering over any other dimensions &quot;aren't great&quot;."/>
+    documentation="When data is not organised for statistical processing, it can take up much more space than is needed, and be much slower than might be needed.&#xA;&#xA;This is even the case, for databases that are meant to hold and provide statistics for time-series data - they're very fast for looking at events over a time frame, but found grouping and filtering over any other dimensions &quot;aren't great&quot;."/>
