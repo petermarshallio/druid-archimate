@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Announcements"
+    id="936f04be-2edb-4a0d-a862-e2a34ce8a127"
+    documentation="Includes hostname, IP address, and capacity (ie worker threads)"/>

@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Limits on statistical calculations"
+    id="6f2e5138-56fe-454f-af44-3a7813e056bc"
+    documentation="The types of statistics that can be seen about a period of activity are pre-defined.&#xA;&#xA;At Game Analytics, they used pre-calculation on a stream of events and pushed these into DynamoDB for presentation to their customers - but as their customers demands for more data grew, and their product itself grew to incorporate more data from the environment, this did not scale out.  Dynamo in particular is very fast at adding and retrieving data, it's not great for analytics.&#xA;&#xA;In addition, pre-calculation causes exponential growth as more and more combinations of more and more dimension statistics must be computed ahead of time.  Game Analytics felt that this would be financially infeasible to continue, as well as damaging to their reputation."/>

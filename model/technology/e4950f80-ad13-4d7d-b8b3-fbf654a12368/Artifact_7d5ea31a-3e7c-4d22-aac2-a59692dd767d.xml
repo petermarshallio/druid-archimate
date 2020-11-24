@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadata Store"
+    id="7d5ea31a-3e7c-4d22-aac2-a59692dd767d"
+    documentation="From the overlord includes task information, supervisors, and segment information&#xA;&#xA;It contains pointers to segment locations in deep storage (segments table) and other stuff related to running tasks.&#xA;&#xA;Rows in the segments table point to actual storage locations for segments in deep storage.&#xA;&#xA;The pending segments table exists to ensure a task doesn't try and build the same segments out - this is where &quot;ghost&quot; segments in streamable ingestion are listed.&#xA;&#xA;A datasource table records commited stream offsets for supervisors, broken down by partition.&#xA;&#xA;Ingestion is considered successful when the segment has been written into the metadata store and is &quot;published&quot;."/>

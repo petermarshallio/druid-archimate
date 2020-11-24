@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="segment pull (load)"
+    id="2cea9913-7ba4-463d-9296-b17f77b32d0c"
+    accessType="1">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_fbb254c1-d1d3-463b-b71b-f90fc97dcd79.xml#fbb254c1-d1d3-463b-b71b-f90fc97dcd79"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_7861c163-6fb5-47f8-8dc1-ba872ac5fe1d.xml#7861c163-6fb5-47f8-8dc1-ba872ac5fe1d"/>
+</archimate:AccessRelationship>

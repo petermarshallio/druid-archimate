@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Segment Announcements"
+    id="0ed311d3-871a-4b53-8337-50aee4bc2daa"
+    documentation="Paths in Zookeeper updated by Historicals and MiddleManagers / Indexers, announcing the segments that they are serving.&#xA;&#xA;Announcements are grouped by server, and then each server's segment.&#xA;&#xA;Used for querying purposes by the broker and by the coordinator for assignment and balance."/>

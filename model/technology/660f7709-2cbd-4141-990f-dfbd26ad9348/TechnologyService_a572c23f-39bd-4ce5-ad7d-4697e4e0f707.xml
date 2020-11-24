@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ingestion Source"
+    id="a572c23f-39bd-4ce5-ad7d-4697e4e0f707"
+    documentation="Kafka, Kinesis, S3, HDFS, GCS, etc."/>

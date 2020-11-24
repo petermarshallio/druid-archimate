@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Load Queues"
+    id="b9babf5c-ce91-41cc-a3b3-8659e7f3366e"
+    documentation="Inbox per historical - aka Load Queue&#xA;&#xA;For historicals: Load / Drop&#xA;&#xA;For Indexer / MM: Broadcasts (for JOINs)"/>

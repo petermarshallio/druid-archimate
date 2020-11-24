@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Task / Supervisor API"
+    id="e2b2b358-3d2e-493a-a90a-0c9adf72c1e5"
+    documentation="Supervisors are for supervised ingestion (Kafka, Kinesis) while tasks are for once-off ingestion (HDFS, S3)&#xA;&#xA;Requests are handled by the leader in a corum - they will be redirected to that leader if they submit to a non-leader"/>

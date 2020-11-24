@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tight connection of acquisition and computation"
+    id="4dc2788a-211a-441b-9b72-7c228fe68708"
+    documentation="When the same components of an application cover acquisition and computation.&#xA;&#xA;One part may have to wait for the other to finish, like with computation, but it also means that one part can't be scaled up without also scaling up (and wasting money on) the other."/>

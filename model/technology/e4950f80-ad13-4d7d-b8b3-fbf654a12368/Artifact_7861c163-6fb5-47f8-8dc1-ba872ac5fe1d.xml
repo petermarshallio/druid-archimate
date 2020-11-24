@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deep Storage"
+    id="7861c163-6fb5-47f8-8dc1-ba872ac5fe1d"
+    documentation="Contains segments, built through ingestion.  Segments are columnarised.  Each segment is typically 5m rows."/>

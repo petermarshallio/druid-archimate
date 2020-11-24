@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Broker Segment Announcements Cache"
+    id="6c6759bf-fc3d-4a7f-92f5-6bb7272c4303"
+    documentation="Cache of Announcements allowing the Broker to know what is being served where, refreshed in the background and ensure that queries are never bottlenecked by a lookup to the DB / ZK"/>
