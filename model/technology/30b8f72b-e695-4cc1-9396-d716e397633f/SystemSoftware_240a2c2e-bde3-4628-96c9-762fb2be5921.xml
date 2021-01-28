@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Router"
     id="240a2c2e-bde3-4628-96c9-762fb2be5921"
-    documentation="Responsible for JDBC stickiness (routing to a consistent Broker) as well as deciding which Broker will handle the incoming query request."/>
+    documentation="Responsible for JDBC stickiness (routing to a consistent Broker) as well as deciding which Broker will handle the incoming query request.&#xA;Also runs the Druid Console."/>
