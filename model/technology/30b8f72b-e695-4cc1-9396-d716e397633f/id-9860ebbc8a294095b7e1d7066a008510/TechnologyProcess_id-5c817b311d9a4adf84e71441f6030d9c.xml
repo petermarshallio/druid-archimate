@@ -1,0 +1,5 @@
+<archimate:TechnologyProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overlord Streaming Task Supervisor"
+    id="id-5c817b311d9a4adf84e71441f6030d9c"
+    documentation="For a streamable ingestion, a supervisor manages the tasks that are running, one per datasource.  Every so often, it synchronises a publish of the segments across all running tasks.  This happens by checkpointing all the partition tasks across all replicas, making sure all the tasks have reached the same position in the stream.  (This only takes a few seconds).&#xA;&#xA;When a checkpoint occurs (instructed by the overlord) MiddleManager Streaming Ingestion Task Peons make a push of their current segment data to deep storage (bringing it to a head) and then it calls the Publish API on the overlord.  If this fails, the data is still in deep storage, but it remains unpublished and the task is marked as failed."/>

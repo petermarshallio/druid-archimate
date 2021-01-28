@@ -1,0 +1,5 @@
+<archimate:TechnologyProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overlord Task Monitor"
+    id="id-ed96571749ec4e0e81fae1328447643b"
+    documentation="ServerView and InventoryView monitor the announcements - along with DruidNodeDiscoveryProvider"/>

@@ -1,5 +1,5 @@
-<archimate:SystemSoftware
+<archimate:TechnologyProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Coordinator"
-    id="5d7e4bde-cef2-4d9e-b4ef-16c68d0e97e9"
+    name="Coordinator Management Loop"
+    id="id-a0a5cc00a20447b7bb18ca36ee12eec3"
     documentation="The main management loop for the coordinator is handled in the DruidCoordinator class (including leader election)&#xA;&#xA;It polls the metadata store regularly for new segments (1m default).  A second job (1m cycle) tells what segments the Historicals should load (accounting for health, balance and replication) or drop.&#xA;&#xA;ServerView and InventoryView monitor the announcements - along with DruidNodeDiscoveryProvider"/>
