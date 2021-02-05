@@ -1,7 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="announce"
+    name="service announce"
     id="a9cce08f-a609-47e0-af26-2ef123ad374d">
   <source
       xsi:type="archimate:SystemSoftware"

@@ -1,5 +1,5 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Service Announcements"
+    name="Published Services"
     id="936f04be-2edb-4a0d-a862-e2a34ce8a127"
-    documentation="Includes hostname, IP address, and capacity (ie worker threads)"/>
+    documentation="${druid.zk.paths.base}/announcements&#xA;${druid.zk.paths.announcementsPath}/${druid.host}&#xA;&#xA;Includes hostname, IP address, and capacity (ie worker threads)"/>

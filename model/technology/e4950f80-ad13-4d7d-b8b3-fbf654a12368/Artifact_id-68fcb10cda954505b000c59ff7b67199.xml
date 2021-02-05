@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leader Election Latch"
+    id="id-68fcb10cda954505b000c59ff7b67199"
+    documentation="We use the Curator LeadershipLatch recipe to do leader election&#xA;${druid.zk.paths.coordinatorPath}/_COORDINATOR"/>

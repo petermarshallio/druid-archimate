@@ -1,5 +1,5 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Load Queues"
+    name="Load Queue"
     id="b9babf5c-ce91-41cc-a3b3-8659e7f3366e"
-    documentation="Inbox per historical - aka Load Queue&#xA;&#xA;For historicals: Load / Drop&#xA;&#xA;For Indexer / MM: Broadcasts (for JOINs)"/>
+    documentation="Inbox per historical - aka Load Queue&#xA;${druid.zk.paths.loadQueuePath}/_host_of_historical_process/_segment_identifier&#xA;&#xA;For historicals: Load / Drop&#xA;And in addition for the Indexer / MM: Broadcasts (for JOINs)"/>

@@ -1,7 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="rule jobs"
+    name="rule task"
     id="9fd6a470-003e-4644-affb-5417448ec26f"
     accessType="1">
   <source

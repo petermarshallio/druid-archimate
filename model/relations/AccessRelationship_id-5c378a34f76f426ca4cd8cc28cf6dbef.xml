@@ -1,13 +1,13 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="service announce"
-    id="f8340565-1f0c-44f7-94bc-1c53cfca3b44"
+    name="rule task"
+    id="id-5c378a34f76f426ca4cd8cc28cf6dbef"
     accessType="1">
   <source
       xsi:type="archimate:SystemSoftware"
-      href="SystemSoftware_1012c202-e16c-46cd-9bbe-1c616f61ae8c.xml#1012c202-e16c-46cd-9bbe-1c616f61ae8c"/>
+      href="SystemSoftware_7e4e576a-38e9-4c43-8132-2fe0de85b962.xml#7e4e576a-38e9-4c43-8132-2fe0de85b962"/>
   <target
       xsi:type="archimate:Artifact"
-      href="Artifact_936f04be-2edb-4a0d-a862-e2a34ce8a127.xml#936f04be-2edb-4a0d-a862-e2a34ce8a127"/>
+      href="Artifact_b9babf5c-ce91-41cc-a3b3-8659e7f3366e.xml#b9babf5c-ce91-41cc-a3b3-8659e7f3366e"/>
 </archimate:AccessRelationship>

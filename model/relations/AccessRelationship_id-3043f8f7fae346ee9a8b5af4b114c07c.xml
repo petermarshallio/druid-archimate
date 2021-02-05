@@ -1,12 +1,12 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="rule task"
-    id="37e7a1c9-dd09-4d62-80dd-5249d25a314a">
+    name="segment push"
+    id="id-3043f8f7fae346ee9a8b5af4b114c07c">
   <source
       xsi:type="archimate:SystemSoftware"
-      href="SystemSoftware_5d7e4bde-cef2-4d9e-b4ef-16c68d0e97e9.xml#5d7e4bde-cef2-4d9e-b4ef-16c68d0e97e9"/>
+      href="SystemSoftware_id-421284a6681a40b892fcbb3c0813afbd.xml#id-421284a6681a40b892fcbb3c0813afbd"/>
   <target
       xsi:type="archimate:Artifact"
-      href="Artifact_b9babf5c-ce91-41cc-a3b3-8659e7f3366e.xml#b9babf5c-ce91-41cc-a3b3-8659e7f3366e"/>
+      href="Artifact_7861c163-6fb5-47f8-8dc1-ba872ac5fe1d.xml#7861c163-6fb5-47f8-8dc1-ba872ac5fe1d"/>
 </archimate:AccessRelationship>
