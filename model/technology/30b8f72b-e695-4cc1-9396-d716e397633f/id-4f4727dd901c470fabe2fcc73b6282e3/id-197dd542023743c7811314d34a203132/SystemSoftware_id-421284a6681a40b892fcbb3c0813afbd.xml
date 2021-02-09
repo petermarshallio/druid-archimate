@@ -1,5 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MiddleManager Task / Worker"
+    name="MiddleManager Task"
     id="id-421284a6681a40b892fcbb3c0813afbd"
     documentation="Spawned by MiddleManagers in the same host, a separate JVM executing a single task.&#xA;&#xA;In stream ingestion, the MiddleManager creates individual Tasks that each build a segment and push it into deep storage.  They are monitored by an Overlord Streaming Task Supervisor.  Tasks will be created and have partition assignments within the stream and each independently do the ingestion work.&#xA;&#xA;In batch ingestion, a MiddleManager Batch Task Supervisor is created within the MiddleManager itself, controlling up to maxNumConcurrentSubTasks of worker tasks.  Those workers read from the source, assigned to run particular sets of files.  When all the subtasks are done, it's that process that calls the Publish API on behalf of all those subtasks.&#xA;&#xA;Periodically, peons push data into deep storage &quot;unpublished&quot; as individual segments, not yet written into the metadata store."/>
