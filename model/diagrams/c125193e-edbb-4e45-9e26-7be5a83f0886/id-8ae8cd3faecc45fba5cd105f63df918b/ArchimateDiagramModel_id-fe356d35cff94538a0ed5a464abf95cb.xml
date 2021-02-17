@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="6.3 Zookeeper"
-    id="id-fe356d35cff94538a0ed5a464abf95cb">
+    name="Zookeeper"
+    id="id-fe356d35cff94538a0ed5a464abf95cb"
+    viewpoint="technology">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c774bc33135a44d98607c587e6b5bed5">

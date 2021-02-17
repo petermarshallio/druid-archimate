@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="5 Deployment"
+    name="Zookeeper Detail"
     id="fa4732be-ca78-4734-85e3-b92e7b476e60"
     documentation="See https://implydata.atlassian.net/wiki/spaces/ENG/pages/1088716891/Lesson+2+Query+System"
     viewpoint="technology">

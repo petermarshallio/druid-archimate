@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="2 Query"
+    name="Query Detail"
     id="3e5b650f-dbf7-4f40-b123-48ecdec4ca8c"
     documentation="ServerView and InventoryView monitor the announcements"
     viewpoint="technology">

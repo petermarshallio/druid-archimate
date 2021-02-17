@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="A2 Assignment and Balance"
+    name="Assignment"
     id="id-f6af28bd943240b4b25f0836b2bc51a4"
-    viewpoint="technology_usage">
+    viewpoint="technology">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-885c7a30c48540b4b1832eadc036ad76"

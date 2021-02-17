@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="6.2 Deep Storage"
-    id="id-eb869558058b4205a1359117c9c6d8e6">
+    name="Deep Storage"
+    id="id-eb869558058b4205a1359117c9c6d8e6"
+    viewpoint="technology">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2c50b73021ce46529b5caa2d5fffd4f2">

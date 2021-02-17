@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="4 Summary"
+    name="Zookeeper (2)"
     id="b076352e-bcd0-41b8-8980-f925e06f670c"
     viewpoint="technology">
   <children
@@ -483,5 +483,16 @@
     <archimateElement
         xsi:type="archimate:Artifact"
         href="Artifact_7861c163-6fb5-47f8-8dc1-ba872ac5fe1d.xml#7861c163-6fb5-47f8-8dc1-ba872ac5fe1d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-6972dd7b697b4bf991768e8666eb2086"
+      textAlignment="1"
+      content="Duplicate viewpoint?&#xA;">
+    <bounds
+        x="35"
+        y="497"
+        width="98"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>

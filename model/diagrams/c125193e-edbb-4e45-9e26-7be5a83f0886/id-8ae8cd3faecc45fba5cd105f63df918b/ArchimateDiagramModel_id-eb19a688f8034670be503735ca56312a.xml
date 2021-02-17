@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="6.1 Metadata Database"
-    id="id-eb19a688f8034670be503735ca56312a">
+    name="Metadata Database"
+    id="id-eb19a688f8034670be503735ca56312a"
+    viewpoint="technology">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-eee6e5b649194a8895660b811b0feb6a"

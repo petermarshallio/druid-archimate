@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="A3 Assignment and Balance to Query"
+    name="Assignment to Query"
     id="id-4ae10c7f77a14d1a96eee1ee0ef343b1"
-    viewpoint="technology_usage">
+    viewpoint="technology">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-539d9f655b3f445489140f345c7b8775">
@@ -280,12 +280,23 @@
           href="AggregationRelationship_e95660e0-ebc8-4f78-8cd3-f6f02ba6aed9.xml#e95660e0-ebc8-4f78-8cd3-f6f02ba6aed9"/>
     </sourceConnections>
     <bounds
-        x="708"
-        y="468"
+        x="780"
+        y="273"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:TechnologyCollaboration"
         href="TechnologyCollaboration_91219c75-f10c-492e-a88f-88e82f25a2eb.xml#91219c75-f10c-492e-a88f-88e82f25a2eb"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-20ae516d307e4725aac5a3a831e407e6"
+      textAlignment="1"
+      content="This view is not yet complete">
+    <bounds
+        x="36"
+        y="431"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>

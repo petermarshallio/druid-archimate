@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="A1 Ingestion"
+    name="Ingestion"
     id="id-1fc0c5e4264848b3adb0d4f84e3158c6"
-    viewpoint="technology_usage">
+    viewpoint="technology">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d55c9fd2a6b045c28e3eac9ee4c255d1">

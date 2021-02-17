@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="A0 Ingestion to Assignment and Balance"
+    name="Ingestion to Assignment"
     id="id-57d762878fe6416698a44645d143fbcd"
-    viewpoint="technology_usage">
+    viewpoint="technology">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-de52f824d6ee45a786a99877a53c88f3">

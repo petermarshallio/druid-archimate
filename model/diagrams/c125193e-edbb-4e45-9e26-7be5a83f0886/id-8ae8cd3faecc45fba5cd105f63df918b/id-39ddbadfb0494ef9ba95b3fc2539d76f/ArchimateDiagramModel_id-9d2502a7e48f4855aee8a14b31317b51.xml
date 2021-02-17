@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="6 Dependencies"
-    id="id-9d2502a7e48f4855aee8a14b31317b51">
+    name="Deep Store and MDDB"
+    id="id-9d2502a7e48f4855aee8a14b31317b51"
+    viewpoint="technology">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b892b42750174ea3b60c90e98dd8539f"
