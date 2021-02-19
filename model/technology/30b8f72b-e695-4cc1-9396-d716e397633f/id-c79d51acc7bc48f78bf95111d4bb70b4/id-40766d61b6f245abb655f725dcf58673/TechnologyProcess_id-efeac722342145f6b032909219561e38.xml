@@ -1,5 +1,5 @@
 <archimate:TechnologyProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MiddleManager Streaming Ingestion Peon"
+    name="Ingest from a Stream"
     id="id-efeac722342145f6b032909219561e38"
     documentation="Notice that realtime data exists as &quot;ghost segments&quot; and are still available for query (by announcements) even though they haven't been pushed.  If the task fails, therefore, this data might disappear - it is less stable than pushed / published data, and thus is a key reason for replicas for redundancy.  These &quot;ghost&quot; segments remain available for query until a historical has fully and completely loaded the segment, meaning that the data will always be available for query without interuption."/>

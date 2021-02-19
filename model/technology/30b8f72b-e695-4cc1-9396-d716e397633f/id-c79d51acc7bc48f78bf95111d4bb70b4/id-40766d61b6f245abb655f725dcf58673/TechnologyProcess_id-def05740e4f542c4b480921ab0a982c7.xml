@@ -1,5 +1,5 @@
 <archimate:TechnologyProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MiddleManager Batch Task Supervisor"
+    name="Monitor some Batch Ingests"
     id="id-def05740e4f542c4b480921ab0a982c7"
     documentation="Batch ingestion pushes to deep storage (same as streaming) but the publish protocol is slightly different, in that this is handled by this supervisory task in the MM, not on the overlord, and only once all these subtasks have completed."/>
