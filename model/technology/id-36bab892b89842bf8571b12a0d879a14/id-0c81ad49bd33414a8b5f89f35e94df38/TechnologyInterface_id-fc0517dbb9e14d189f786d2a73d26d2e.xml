@@ -1,4 +1,5 @@
 <archimate:TechnologyInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Status REST API"
-    id="id-fc0517dbb9e14d189f786d2a73d26d2e"/>
+    id="id-fc0517dbb9e14d189f786d2a73d26d2e"
+    documentation="https://druid.apache.org/docs/latest/operations/api-reference.html#process-information"/>

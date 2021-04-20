@@ -9,8 +9,8 @@
       id="id-b72a2e00987347b9ad9d75753b46f671"
       targetConnections="id-91c415b34ac74747896fe7d0e674417b">
     <bounds
-        x="204"
-        y="132"
+        x="216"
+        y="60"
         width="120"
         height="55"/>
     <archimateElement
@@ -22,8 +22,8 @@
       id="id-ef260e8c23514e1ab7c94ef13b487873"
       targetConnections="id-b3e19b06752a40ed967f0e6242fa925e">
     <bounds
-        x="204"
-        y="60"
+        x="216"
+        y="132"
         width="120"
         height="55"/>
     <archimateElement
@@ -35,7 +35,7 @@
       id="id-03c5e86628a74de7a75e683514849508"
       targetConnections="id-ce9bc0433e574ee085f8cbb5bed31433">
     <bounds
-        x="204"
+        x="216"
         y="204"
         width="120"
         height="55"/>
@@ -48,7 +48,7 @@
       id="id-f0419199e89048c38b7d4760bf3663cb"
       targetConnections="id-99f5515ccbbb4d8da398b27a3fcdfd7a">
     <bounds
-        x="204"
+        x="216"
         y="276"
         width="120"
         height="55"/>
@@ -61,7 +61,7 @@
       id="id-2286cfbc37344173b62acd8d48b31001"
       targetConnections="id-0c5a14ddeefb44d7a4ea9b5589f4ad83">
     <bounds
-        x="204"
+        x="216"
         y="420"
         width="120"
         height="55"/>
@@ -74,7 +74,7 @@
       id="id-1778d6cefedb47648dd085bb9a294569"
       targetConnections="id-77be3fbcbf944a51908d3d41c4683ee6">
     <bounds
-        x="204"
+        x="216"
         y="348"
         width="120"
         height="55"/>
@@ -206,7 +206,7 @@
       id="id-52c1a60ad8c245c589b43d52053fef7b"
       targetConnections="id-9d30106afeea4668b3611f408a207ad2">
     <bounds
-        x="204"
+        x="216"
         y="492"
         width="120"
         height="55"/>

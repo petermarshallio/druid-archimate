@@ -1,5 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Overlord Configuration Service"
+    name="Overlord Management Service"
     id="id-85de26d9c04c4dd49c426b2eee594ec7"
-    documentation="Peek&#xA;https://druid.apache.org/docs/latest/operations/api-reference.html#dynamic-configuration&#xA;GET /druid/indexer/v1/worker&#xA;GET /druid/indexer/v1/worker/history?interval={interval}&amp;counter={count}&#xA;GET /druid/indexer/v1/scaling&#xA;&#xA;Poke&#xA;https://druid.apache.org/docs/latest/operations/api-reference.html#dynamic-configuration&#xA;POST /druid/indexer/v1/worker&#xA;https://druid.apache.org/docs/latest/configuration/index.html#overlord-dynamic-configuration"/>
+    documentation="Check configuration&#xA;https://druid.apache.org/docs/latest/operations/api-reference.html#dynamic-configuration&#xA;GET /druid/indexer/v1/worker&#xA;GET /druid/indexer/v1/worker/history?interval={interval}&amp;counter={count}&#xA;GET /druid/indexer/v1/scaling&#xA;&#xA;Set configuration&#xA;https://druid.apache.org/docs/latest/operations/api-reference.html#dynamic-configuration&#xA;POST /druid/indexer/v1/worker&#xA;https://druid.apache.org/docs/latest/configuration/index.html#overlord-dynamic-configuration"/>

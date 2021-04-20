@@ -4,8 +4,8 @@
     name="segment push"
     id="id-3043f8f7fae346ee9a8b5af4b114c07c">
   <source
-      xsi:type="archimate:SystemSoftware"
-      href="SystemSoftware_id-421284a6681a40b892fcbb3c0813afbd.xml#id-421284a6681a40b892fcbb3c0813afbd"/>
+      xsi:type="archimate:Node"
+      href="Node_id-a40dcb5904d14e81818b2d1c39593fe3.xml#id-a40dcb5904d14e81818b2d1c39593fe3"/>
   <target
       xsi:type="archimate:Artifact"
       href="Artifact_7861c163-6fb5-47f8-8dc1-ba872ac5fe1d.xml#7861c163-6fb5-47f8-8dc1-ba872ac5fe1d"/>

@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Middlemanager"
+    id="id-1086c6d8d563479bbfc80440ea6debcb">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-694375e553ee452d9ac19a024497b0af">
+    <bounds
+        x="48"
+        y="48"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_7e4e576a-38e9-4c43-8132-2fe0de85b962.xml#7e4e576a-38e9-4c43-8132-2fe0de85b962"/>
+  </children>
+</archimate:ArchimateDiagramModel>

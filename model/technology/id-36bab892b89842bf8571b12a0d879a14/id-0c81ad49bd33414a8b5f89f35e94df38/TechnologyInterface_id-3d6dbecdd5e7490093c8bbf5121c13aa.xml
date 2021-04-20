@@ -1,4 +1,5 @@
 <archimate:TechnologyInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Overlord (Indexer) REST API"
-    id="id-3d6dbecdd5e7490093c8bbf5121c13aa"/>
+    id="id-3d6dbecdd5e7490093c8bbf5121c13aa"
+    documentation="https://druid.apache.org/docs/latest/operations/api-reference.html#overlord"/>
