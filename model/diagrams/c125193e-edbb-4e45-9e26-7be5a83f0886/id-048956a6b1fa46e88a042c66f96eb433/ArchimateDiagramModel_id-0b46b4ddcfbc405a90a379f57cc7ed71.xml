@@ -130,7 +130,7 @@
     <bounds
         x="216"
         y="276"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:TechnologyService"
@@ -143,7 +143,7 @@
     <bounds
         x="216"
         y="492"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:TechnologyService"
@@ -156,7 +156,7 @@
     <bounds
         x="216"
         y="420"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:TechnologyService"
@@ -169,7 +169,7 @@
     <bounds
         x="216"
         y="348"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:TechnologyService"
@@ -182,7 +182,7 @@
     <bounds
         x="216"
         y="204"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:TechnologyService"
@@ -195,7 +195,7 @@
     <bounds
         x="216"
         y="132"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:TechnologyService"
@@ -208,7 +208,7 @@
     <bounds
         x="216"
         y="60"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:TechnologyService"

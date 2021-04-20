@@ -103,7 +103,7 @@
     <bounds
         x="240"
         y="288"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:TechnologyService"
@@ -116,7 +116,7 @@
     <bounds
         x="240"
         y="72"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:TechnologyService"
@@ -129,7 +129,7 @@
     <bounds
         x="240"
         y="144"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:TechnologyService"
@@ -142,7 +142,7 @@
     <bounds
         x="240"
         y="216"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:TechnologyService"

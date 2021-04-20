@@ -1,5 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Monitoring Configuration"
+    name="Configuration Monitoring"
     id="id-f0dba0ba9e344a20b06985610b45cee3"
     documentation="https://druid.apache.org/docs/latest/operations/api-reference.html#get&#xA;&#xA;GET /status/properties"/>
