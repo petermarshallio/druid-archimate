@@ -9,15 +9,6 @@
       id="id-de52f824d6ee45a786a99877a53c88f3">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-0f0fec77d99647afb8cb9580907e6653"
-        source="id-de52f824d6ee45a786a99877a53c88f3"
-        target="id-cf73ec6e970443da96dbaed6f5937541">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_2d7a037a-502f-4c8c-bbc8-b2b8a41a6130.xml#2d7a037a-502f-4c8c-bbc8-b2b8a41a6130"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-526b5d75266b4defa1547cc5c5962bd5"
         source="id-de52f824d6ee45a786a99877a53c88f3"
         target="id-ffe0691461db44b99847742851dd1cfe">
@@ -33,6 +24,15 @@
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_f8a170a2-3ab2-458a-bbbf-a1236961b9ec.xml#f8a170a2-3ab2-458a-bbbf-a1236961b9ec"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-142eb9fe4bca45e3a548c00286b902c9"
+        source="id-de52f824d6ee45a786a99877a53c88f3"
+        target="id-e54a2d4c860546ec9d15992e6696378f">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-b0934eaa2bf64c408d2c967a578a98e1.xml#id-b0934eaa2bf64c408d2c967a578a98e1"/>
     </sourceConnections>
     <bounds
         x="12"
@@ -108,12 +108,12 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-cf73ec6e970443da96dbaed6f5937541"
-        targetConnections="id-0f0fec77d99647afb8cb9580907e6653">
+        id="id-e54a2d4c860546ec9d15992e6696378f"
+        targetConnections="id-142eb9fe4bca45e3a548c00286b902c9">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-cae7e7a94bf947498c16f47f425462dd"
-          source="id-cf73ec6e970443da96dbaed6f5937541"
+          id="id-7bcf245bd081430eaa9c09bfd096808b"
+          source="id-e54a2d4c860546ec9d15992e6696378f"
           target="id-64d6c4bf7fd14f2da25d7e35db779ae4">
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
@@ -121,13 +121,13 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-84c66eebdc7d4500b8e7abe49dbaa951"
-          source="id-cf73ec6e970443da96dbaed6f5937541"
+          id="id-1c214aa1800247c7a1b9900a5ceb7d22"
+          source="id-e54a2d4c860546ec9d15992e6696378f"
           target="id-e0141616b3b74d1b9a06290cd0ce91e6">
         <bendpoints
-            startX="180"
+            startX="156"
             startY="-3"
-            endX="-114"
+            endX="-138"
             endY="-198"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
@@ -139,8 +139,8 @@
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:SystemSoftware"
-          href="SystemSoftware_1012c202-e16c-46cd-9bbe-1c616f61ae8c.xml#1012c202-e16c-46cd-9bbe-1c616f61ae8c"/>
+          xsi:type="archimate:Node"
+          href="Node_id-f23e63ee792840a8b8fe6cf0209b025a.xml#id-f23e63ee792840a8b8fe6cf0209b025a"/>
     </children>
     <archimateElement
         xsi:type="archimate:TechnologyCollaboration"
@@ -149,7 +149,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-64d6c4bf7fd14f2da25d7e35db779ae4"
-      targetConnections="id-cae7e7a94bf947498c16f47f425462dd">
+      targetConnections="id-7bcf245bd081430eaa9c09bfd096808b">
     <bounds
         x="36"
         y="273"
@@ -344,7 +344,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-e0141616b3b74d1b9a06290cd0ce91e6"
-          targetConnections="id-84c66eebdc7d4500b8e7abe49dbaa951 id-7cb9c5f0886047318eccd5c2de9ca99c id-69ed396fc81e4b598e371b2b7084de3d">
+          targetConnections="id-7cb9c5f0886047318eccd5c2de9ca99c id-69ed396fc81e4b598e371b2b7084de3d id-1c214aa1800247c7a1b9900a5ceb7d22">
         <bounds
             x="12"
             y="24"

@@ -4,8 +4,8 @@
     name="segment metadata"
     id="b41a0774-e940-42b7-a555-0b670733f781">
   <source
-      xsi:type="archimate:SystemSoftware"
-      href="SystemSoftware_1012c202-e16c-46cd-9bbe-1c616f61ae8c.xml#1012c202-e16c-46cd-9bbe-1c616f61ae8c"/>
+      xsi:type="archimate:Node"
+      href="Node_id-f23e63ee792840a8b8fe6cf0209b025a.xml#id-f23e63ee792840a8b8fe6cf0209b025a"/>
   <target
       xsi:type="archimate:Artifact"
       href="Artifact_7d5ea31a-3e7c-4d22-aac2-a59692dd767d.xml#7d5ea31a-3e7c-4d22-aac2-a59692dd767d"/>

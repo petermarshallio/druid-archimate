@@ -88,21 +88,21 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="773fc5f5-9a63-4c27-b06a-1bacf30e553b"
-        source="5bd733c9-0f58-4416-835e-a045efccaa75"
-        target="f404254f-a13a-450e-8f14-e9872032ef1f">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_2d7a037a-502f-4c8c-bbc8-b2b8a41a6130.xml#2d7a037a-502f-4c8c-bbc8-b2b8a41a6130"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="11ebae0d-f7d7-4200-be8c-b402975b3084"
         source="5bd733c9-0f58-4416-835e-a045efccaa75"
         target="ed38253f-a0a5-40ab-a773-91386d6043b2">
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_0ab034bc-1b7d-4767-9cbc-8daf0e6c280c.xml#0ab034bc-1b7d-4767-9cbc-8daf0e6c280c"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-1297cf389f9f4dc88583b4aded144870"
+        source="5bd733c9-0f58-4416-835e-a045efccaa75"
+        target="id-7c15775bac364440837ecc476535bc03">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-b0934eaa2bf64c408d2c967a578a98e1.xml#id-b0934eaa2bf64c408d2c967a578a98e1"/>
     </sourceConnections>
     <bounds
         x="12"
@@ -111,16 +111,16 @@
         height="97"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="f404254f-a13a-450e-8f14-e9872032ef1f"
-        targetConnections="773fc5f5-9a63-4c27-b06a-1bacf30e553b">
+        id="id-7c15775bac364440837ecc476535bc03"
+        targetConnections="id-1297cf389f9f4dc88583b4aded144870">
       <bounds
           x="12"
-          y="24"
+          y="36"
           width="120"
-          height="60"/>
+          height="55"/>
       <archimateElement
-          xsi:type="archimate:SystemSoftware"
-          href="SystemSoftware_1012c202-e16c-46cd-9bbe-1c616f61ae8c.xml#1012c202-e16c-46cd-9bbe-1c616f61ae8c"/>
+          xsi:type="archimate:Node"
+          href="Node_id-f23e63ee792840a8b8fe6cf0209b025a.xml#id-f23e63ee792840a8b8fe6cf0209b025a"/>
     </children>
     <archimateElement
         xsi:type="archimate:TechnologyCollaboration"

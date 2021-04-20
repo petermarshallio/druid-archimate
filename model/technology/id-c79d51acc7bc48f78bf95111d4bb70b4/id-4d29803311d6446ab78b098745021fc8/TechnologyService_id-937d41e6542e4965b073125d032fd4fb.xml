@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overlord Leadership Service"
+    id="id-937d41e6542e4965b073125d032fd4fb"
+    documentation="https://druid.apache.org/docs/latest/operations/api-reference.html#get-13&#xA;GET /druid/indexer/v1/leader&#xA;GET /druid/indexer/v1/isLeader&#xA;&#xA;Requests are handled by the leader in a corum - they will be redirected to that leader if they submit to a non-leader"/>

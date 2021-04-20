@@ -1,5 +1,0 @@
-<archimate:SystemSoftware
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Overlord"
-    id="1012c202-e16c-46cd-9bbe-1c616f61ae8c"
-    documentation="Assigning ingestion tasks and orchestrating segment publishing&#xA;It manages which Indexer / MM runs which tasks, and offers an API to those tasks for allocating segments, publishing segments to the Metadata Store, etc.&#xA;The overlord knows what resources are available to run things by discovery in ZK"/>
