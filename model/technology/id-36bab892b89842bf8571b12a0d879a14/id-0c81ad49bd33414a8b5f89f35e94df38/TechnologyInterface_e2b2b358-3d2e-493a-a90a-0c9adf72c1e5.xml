@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MiddleManager Task (Peon) REST API"
+    id="e2b2b358-3d2e-493a-a90a-0c9adf72c1e5"
+    documentation="Pause&#xA;Resume&#xA;Checkpoint&#xA;&#xA;Handles native Druid queries on the latest data"/>

@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MiddleManager Management Service"
+    id="id-6347386f827445719474faa2b5d3a64b"
+    documentation="Availability&#xA;https://druid.apache.org/docs/latest/operations/api-reference.html#get-17&#xA;/druid/worker/v1/enabled&#xA;&#xA;https://druid.apache.org/docs/latest/operations/api-reference.html#post-7&#xA;/druid/worker/v1/enable&#xA;/druid/worker/v1/disable"/>

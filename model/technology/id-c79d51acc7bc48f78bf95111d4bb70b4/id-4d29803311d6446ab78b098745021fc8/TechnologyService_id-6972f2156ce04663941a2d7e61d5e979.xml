@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Task Information Service"
+    id="id-6972f2156ce04663941a2d7e61d5e979"
+    documentation="https://druid.apache.org/docs/latest/operations/api-reference.html#peon&#xA;&#xA;/druid/worker/v1/chat/{taskId}/rowStats&#xA;/druid/worker/v1/chat/{taskId}/unparseableEvents&#xA;&#xA;https://druid.apache.org/docs/latest/ingestion/tasks.html#task-reports&#xA;"/>

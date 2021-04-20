@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MiddleManager Task Control Service"
+    id="id-9adb0b4f5800419aa2ac1a79066157ad"
+    documentation="View workload&#xA;https://druid.apache.org/docs/latest/operations/api-reference.html#get-17&#xA;/druid/worker/v1/tasks&#xA;/druid/worker/v1/task/{taskid}/log&#xA;&#xA;Stop tasks&#xA;/druid/worker/v1/task/{taskid}/shutdown"/>

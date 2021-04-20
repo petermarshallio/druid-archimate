@@ -1,5 +1,0 @@
-<archimate:TechnologyInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MiddleManager / Indexer Query API"
-    id="c5ff68be-2cbc-4309-907d-78233f8d9736"
-    documentation="Handles native Druid queries on the latest data"/>

@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MiddleManager"
-    id="id-7795a60fae814562a47a02b42ce4677b"/>
+    id="id-7795a60fae814562a47a02b42ce4677b"
+    documentation="Ingests and publishes data from source systems, including Druid itself.&#xA;&#xA;MM and Indexers do ingestion and store the most recent (last hour or two) data.&#xA;&#xA;MiddleManager is in the middle of transfering to Indexers (alpha feature) - there's no strong push to use it currently.&#xA;&#xA;There are two types of ingestion: seekable-stream and batch.&#xA;&#xA;This process scales based on how much data you'll be ingesting."/>
