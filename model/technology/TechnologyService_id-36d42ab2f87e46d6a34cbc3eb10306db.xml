@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Deletion Service"
+    id="id-36d42ab2f87e46d6a34cbc3eb10306db"
+    documentation="1) Mark data as unused either&#xA;&#xA;a) Manually...&#xA;&#xA;https://druid.apache.org/docs/latest/operations/api-reference.html#post-1&#xA;POST /druid/coordinator/v1/datasources/{dataSourceName}/markUnused&#xA;&#xA;https://druid.apache.org/docs/latest/operations/api-reference.html#delete&#xA;DELETE /druid/coordinator/v1/datasources/{dataSourceName}/segments/{segmentId}&#xA;DELETE /druid/coordinator/v1/datasources/{dataSourceName}&#xA;&#xA;b) Using rules...&#xA;&#xA;https://druid.apache.org/docs/latest/operations/api-reference.html#retention-rules&#xA;POST /druid/coordinator/v1/rules/{dataSourceName}&#xA;&#xA;2) Then delete it manually&#xA;https://druid.apache.org/docs/latest/operations/api-reference.html#delete&#xA;DELETE /druid/coordinator/v1/datasources/{dataSourceName}/intervals/{interval}"/>

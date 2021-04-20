@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leadership Service"
+    id="id-bc457602439946cf82619418b0affb5e"
+    documentation="https://druid.apache.org/docs/latest/operations/api-reference.html#leadership&#xA;/druid/coordinator/v1/leader&#xA;/druid/coordinator/v1/isLeader"/>

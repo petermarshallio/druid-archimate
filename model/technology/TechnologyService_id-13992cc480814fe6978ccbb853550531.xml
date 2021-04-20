@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitoring Discovery"
+    id="id-13992cc480814fe6978ccbb853550531"
+    documentation="https://druid.apache.org/docs/latest/operations/api-reference.html#get&#xA;GET /status/selfDiscovered/status&#xA;GET /status/selfDiscovered"/>

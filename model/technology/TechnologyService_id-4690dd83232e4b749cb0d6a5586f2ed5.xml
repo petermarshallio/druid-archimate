@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compaction Service"
+    id="id-4690dd83232e4b749cb0d6a5586f2ed5"
+    documentation="Set the configuration&#xA;https://druid.apache.org/docs/latest/operations/api-reference.html#compaction-configuration&#xA;/druid/coordinator/v1/config/compaction&#xA;/druid/coordinator/v1/config/compaction/{dataSource}&#xA;&#xA;https://druid.apache.org/docs/latest/operations/api-reference.html#compaction-configuration&#xA;POST /druid/coordinator/v1/config/compaction/taskslots?ratio={someRatio}&amp;max={someMaxSlots}&#xA;POST /druid/coordinator/v1/config/compaction&#xA;&#xA;Or remove it...&#xA;DELETE /druid/coordinator/v1/config/compaction/{dataSource}&#xA;&#xA;What's the current state?&#xA;https://druid.apache.org/docs/latest/operations/api-reference.html#compaction-status&#xA;/druid/coordinator/v1/compaction/progress?dataSource={dataSource}&#xA;/druid/coordinator/v1/compaction/status&#xA;/druid/coordinator/v1/compaction/status?dataSource={dataSource}&#xA;"/>

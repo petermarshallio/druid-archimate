@@ -4,8 +4,8 @@
     name="rule task"
     id="37e7a1c9-dd09-4d62-80dd-5249d25a314a">
   <source
-      xsi:type="archimate:SystemSoftware"
-      href="SystemSoftware_5d7e4bde-cef2-4d9e-b4ef-16c68d0e97e9.xml#5d7e4bde-cef2-4d9e-b4ef-16c68d0e97e9"/>
+      xsi:type="archimate:Node"
+      href="Node_id-b85b3fd0483a40fea5937f7cf2fbabfc.xml#id-b85b3fd0483a40fea5937f7cf2fbabfc"/>
   <target
       xsi:type="archimate:Artifact"
       href="Artifact_b9babf5c-ce91-41cc-a3b3-8659e7f3366e.xml#b9babf5c-ce91-41cc-a3b3-8659e7f3366e"/>

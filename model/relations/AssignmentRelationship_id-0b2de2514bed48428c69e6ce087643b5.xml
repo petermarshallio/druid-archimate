@@ -1,13 +1,11 @@
-<archimate:AccessRelationship
+<archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="service announce"
-    id="6aa3a1c3-2836-44bc-a8c7-cba263d98ecc"
-    accessType="1">
+    id="id-0b2de2514bed48428c69e6ce087643b5">
   <source
       xsi:type="archimate:Node"
       href="Node_id-b85b3fd0483a40fea5937f7cf2fbabfc.xml#id-b85b3fd0483a40fea5937f7cf2fbabfc"/>
   <target
       xsi:type="archimate:Artifact"
-      href="Artifact_936f04be-2edb-4a0d-a862-e2a34ce8a127.xml#936f04be-2edb-4a0d-a862-e2a34ce8a127"/>
-</archimate:AccessRelationship>
+      href="Artifact_e3271604-66af-4393-9148-37e129582fb6.xml#e3271604-66af-4393-9148-37e129582fb6"/>
+</archimate:AssignmentRelationship>
