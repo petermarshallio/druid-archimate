@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Router Data Information Service"
+    id="id-bc19479673b845c583b6e3295886ea77"
+    documentation="Is this the same as the one on the broker?&#xA;&#xA;What is available?&#xA;https://druid.apache.org/docs/latest/operations/api-reference.html#router&#xA;GET /druid/v2/datasources&#xA;GET /druid/v2/datasources/{dataSourceName} &lt;-- is this from the cache? or announcements?&#xA;GET /druid/v2/datasources/{dataSourceName}/dimensions (dep)&#xA;GET /druid/v2/datasources/{dataSourceName}/metrics (dep)"/>

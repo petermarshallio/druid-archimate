@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Broker Readiness Service"
+    id="id-d73737d2f6a841328608040bb8d75cd2"
+    documentation="Where is it?&#xA;https://druid.apache.org/docs/latest/operations/api-reference.html#get-20&#xA;GET /druid/v2/datasources/{dataSourceName}/candidates?intervals={comma-separated-intervals}&amp;numCandidates={numCandidates}&#xA;&#xA;Is everything ready to go?&#xA;https://druid.apache.org/docs/latest/operations/api-reference.html#get-21&#xA;GET /druid/broker/v1/loadstatus&#xA;GET /druid/broker/v1/readiness&#xA;&#xA;https://druid.apache.org/docs/latest/operations/api-reference.html#queries&#xA;POST /druid/v2/candidates/"/>

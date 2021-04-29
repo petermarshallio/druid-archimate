@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Historical Status Service"
+    id="id-47f9c1ebaeac4387ba1e3c9445ec3c41"
+    documentation="https://druid.apache.org/docs/latest/operations/api-reference.html#get-19&#xA;Is the server ready?&#xA;GET /druid/historical/v1/loadstatus&#xA;GET /druid/historical/v1/readiness"/>

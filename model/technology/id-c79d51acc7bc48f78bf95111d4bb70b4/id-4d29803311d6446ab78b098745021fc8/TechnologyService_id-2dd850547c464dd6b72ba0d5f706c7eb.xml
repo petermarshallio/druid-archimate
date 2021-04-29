@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Distributed Query Service"
+    id="id-2dd850547c464dd6b72ba0d5f706c7eb"
+    documentation="~/druid/v2&#xA;SQL or Druid Native&#xA;~/druid/v2/sql&#xA;&#xA;https://druid.apache.org/docs/latest/operations/api-reference.html#post-8&#xA;/druid/v2/&#xA;/druid/v2/?pretty"/>

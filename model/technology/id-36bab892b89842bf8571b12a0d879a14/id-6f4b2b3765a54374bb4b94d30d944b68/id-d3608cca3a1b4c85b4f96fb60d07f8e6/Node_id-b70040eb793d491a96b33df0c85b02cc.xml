@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deep Store"
+    id="id-b70040eb793d491a96b33df0c85b02cc"
+    documentation="A storage system like S3, HDFS etc."/>

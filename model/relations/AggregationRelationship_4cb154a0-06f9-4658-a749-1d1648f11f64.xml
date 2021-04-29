@@ -6,6 +6,6 @@
       xsi:type="archimate:TechnologyCollaboration"
       href="TechnologyCollaboration_59942e93-1291-4fe7-a4ea-9e08291e9d7b.xml#59942e93-1291-4fe7-a4ea-9e08291e9d7b"/>
   <target
-      xsi:type="archimate:SystemSoftware"
-      href="SystemSoftware_c55a6551-270b-4601-9bb7-1f6b092acc9a.xml#c55a6551-270b-4601-9bb7-1f6b092acc9a"/>
+      xsi:type="archimate:Node"
+      href="Node_id-b70040eb793d491a96b33df0c85b02cc.xml#id-b70040eb793d491a96b33df0c85b02cc"/>
 </archimate:AggregationRelationship>

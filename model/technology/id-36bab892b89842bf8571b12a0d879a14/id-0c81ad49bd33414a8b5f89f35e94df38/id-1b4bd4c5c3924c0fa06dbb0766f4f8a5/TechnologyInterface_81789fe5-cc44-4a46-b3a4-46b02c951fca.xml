@@ -1,5 +1,0 @@
-<archimate:TechnologyInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Overlord Commands"
-    id="81789fe5-cc44-4a46-b3a4-46b02c951fca"
-    documentation="Lock&#xA;&#xA;The Publish API (e.g. at a checkpoint) will write data into the metadata store in a proper transaction (compare and swap)."/>

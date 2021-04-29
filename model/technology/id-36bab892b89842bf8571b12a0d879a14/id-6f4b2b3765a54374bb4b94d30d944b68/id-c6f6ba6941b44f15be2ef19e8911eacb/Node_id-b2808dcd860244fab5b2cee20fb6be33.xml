@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Router"
+    id="id-b2808dcd860244fab5b2cee20fb6be33"
+    documentation="A gateway applications, covering Brokers, Overlords, and Coordinators, as well as providing a Druid Console.&#xA;&#xA;Responsible for JDBC stickiness (routing to a consistent Broker) as well as deciding which Broker will handle the incoming query request."/>
